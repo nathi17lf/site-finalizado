@@ -1,0 +1,25 @@
+*{
+   margin: 24;
+   padding: 35;
+}
+
+.cabecalho
+{background-color: white
+; color: black;
+display: flex;
+ justify-content: space-around; 
+ align-items: center;
+ padding: 35px 100px;
+}
+
+.cabecalho-imagem1{
+    width: 7%;
+ }
+ .cabecalho-imagem2 {width: 35%;}
+ .cabecalho-imagem3 {width: 7%;}
+
+ .cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 30px;
+    font-size: 30px;
+ }
